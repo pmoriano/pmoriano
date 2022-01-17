@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/-Taylor_Smith-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-moriano-phd-1a949923/)](https://www.linkedin.com/in/pablo-moriano-phd-1a949923/)
+[![LinkedIn](https://img.shields.io/badge/-Pablo_Moriano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-moriano-phd-1a949923/)](https://www.linkedin.com/in/pablo-moriano-phd-1a949923/)
 
 <!--
 **pmoriano/pmoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
