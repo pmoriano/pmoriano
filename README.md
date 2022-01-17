@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/-Pablo_Moriano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-moriano-phd-1a949923/)](https://www.linkedin.com/in/pablo-moriano-phd-1a949923/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/morianop)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:moriano@ieee.org)](mailto:oriano@ieee.org)
+[![LinkedIn](https://img.shields.io/badge/-Pablo_Moriano-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-moriano-phd-1a949923/)](https://www.linkedin.com/in/pablo-moriano-phd-1a949923/)
 
 <!--
 **pmoriano/pmoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
