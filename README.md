@@ -2,7 +2,7 @@
 
 Research scientist studying reliable inference, anomaly detection, and adaptation in complex networked systems.
 
-I am a research scientist in the [Computer Science and Mathematics Division](https://csmd.ornl.gov/) at [Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/pablo-moriano). I develop data-driven and computational methods to understand, detect, and respond to abnormal behavior in complex networked systems, particularly when reliability, security, and mission consequences matter.
+I am a research scientist in the [Computer Science and Mathematics Division](https://www.ornl.gov/division/csmd) at [Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/pablo-moriano). I develop data-driven and computational methods to understand, detect, and respond to abnormal behavior in complex networked systems, particularly when reliability, security, and mission consequences matter.
 
 My research brings together data mining, machine learning, network science, cybersecurity, and computational science. A unifying question guides this work: How can computational systems recognize and respond reliably when complex networked environments depart from what they have previously observed?
 
