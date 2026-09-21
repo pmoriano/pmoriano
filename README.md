@@ -1,32 +1,35 @@
-### Hi there 👋
+# Pablo Moriano
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-moriano-phd-1a949923/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moriano@ieee.org)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/morianop)
+Research scientist studying reliable inference, anomaly detection, and adaptation in complex networked systems.
 
-## About me
+I am a research scientist in the [Computer Science and Mathematics Division](https://csmd.ornl.gov/) at [Oak Ridge National Laboratory](https://www.ornl.gov/staff-profile/pablo-moriano). I develop data-driven and computational methods to understand, detect, and respond to abnormal behavior in complex networked systems, particularly when reliability, security, and mission consequences matter.
 
-I am a [research scientist](https://www.ornl.gov/staff-profile/pablo-moriano) in the [Computer Science and Mathematics Division](https://csmd.ornl.gov/) at [Oak Ridge National Laboratory](https://www.ornl.gov/). I use data-driven and computational methods to discover and understand critical security issues in large-scale networked systems. I rely on this approach to design and develop innovative solutions to address these. Applications of my research range across multiple disciplines, including, the [detection of exceptional events in social media](https://www.nature.com/articles/s41598-019-40137-0), [Internet route hijacking modeling](https://www.sciencedirect.com/science/article/pii/S1389128621000207), [insider threat behavior in version control systems](https://dl.acm.org/doi/abs/10.1145/3139923.3139928), and [intrusion detection in cyber-physical systems](https://arxiv.org/abs/2201.02665). 
+My research brings together data mining, machine learning, network science, cybersecurity, and computational science. A unifying question guides this work: How can computational systems recognize and respond reliably when complex networked environments depart from what they have previously observed?
 
+## Research themes
 
-## Publications
+- **Reliable inference under change:** Anomaly and change detection, continual learning, distribution shift, uncertainty, and adversarial manipulation.
+- **Networked and cyber-physical systems:** Network science, graph-based modeling, cybersecurity, and system resilience.
+- **Trustworthy AI for scientific systems:** Monitoring, interpretation, and adaptation in scientific and mission-critical applications.
+- **Scalable graph computation:** Sparse matrix and graph methods for analyzing large and evolving systems.
 
-Check out my publications:
+## Selected research
 
-* [Google Scholar](https://scholar.google.com/citations?hl=en&user=igB8dJoAAAAJ)
+My previous work includes:
 
+- [Detecting exceptional events in social media](https://www.nature.com/articles/s41598-019-40137-0) through community structure in temporal networks.
+- [Modeling anomalous Internet routing behavior](https://www.sciencedirect.com/science/article/pii/S1389128621000207) using the temporal characteristics of BGP announcements.
+- [Characterizing insider-threat behavior](https://dl.acm.org/doi/abs/10.1145/3139923.3139928) in collaborative version-control environments.
+- [Evaluating intrusion detection methods](https://arxiv.org/abs/2201.02665) for cyber-physical systems.
 
-<!--
-**pmoriano/pmoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The repositories highlighted below provide code, benchmarks, and reproducible artifacts associated with parts of this research. I use research software to validate scientific methods, support reproducibility, and enable their application to new scientific problems.
 
-Here are some ideas to get you started:
+## Current directions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current interests include trustworthy anomaly detection, reliable learning under changing operating conditions, graph-based representations of cyber activity, and scalable graph computation.
+
+I am interested in collaborations and student research at the intersection of machine learning, network science, cybersecurity, and computational science.
+
+## Publications and links
+
+[ORNL profile](https://www.ornl.gov/staff-profile/pablo-moriano) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=igB8dJoAAAAJ) · [ORCID](https://orcid.org/0000-0002-1822-8885) · [Personal website](https://pmoriano.com) · [LinkedIn](https://www.linkedin.com/in/pablo-moriano-phd-1a949923/) · [Email](mailto:moriano@ieee.org)
